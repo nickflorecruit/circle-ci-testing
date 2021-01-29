@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/nickwhite/Development/Github/circle-ci-testing/build.sbt","3c4a87ae9afc70039e2d0c36f2ae90b859b799d2"],["/Users/nickwhite/Development/Github/circle-ci-testing/project/plugins.sbt","1917409cf7eda342802a4f5c9729d1a11593ac5f"]],"lastModifiedTimes":[]}]
